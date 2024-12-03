@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>nave bar</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./output.css">
+</head>
+<body>
+  <nav class="bg-black text-white">
+    <div class="container mx-auto flex items-center justify-between p-4">
+        <!-- Brand -->
+        <a href="#" class="text-lg font-bold">MyApp</a>
+
+        <!-- Toggle Button for Mobile -->
+        <button 
+            class="block md:hidden text-white focus:outline-none" 
+            id="menu-toggle"
+        >
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+            </svg>
+        </button>
+
+        <!-- Navigation Links -->
+        <div id="menu" class="hidden md:flex md:items-center space-x-6">
+            <a href="./login.html" class="text-gray-300 hover:text-white log-in">Log In</a>
+            <a href="./login.html" class="text-gray-300 hover:text-white log-out">Log out</a>
+            <a href="./index.html" class="text-gray-300 hover:text-white Register">Register</a>
+            <a href="./profile.html" class="text-gray-500 hover:text-white profile">profile</a>
+            <a href="./post.html" class="text-gray-300 hover:text-white Posts">Posts</a>
+            <a href="./post.html" class="text-gray-300 hover:text-white Posts">Posts</a>
+        </div>
+    </div>
+</nav>
+
+</body>
+<script src="./navebar.js"></script>
+</html>

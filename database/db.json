@@ -1,0 +1,86 @@
+{
+  "user": [
+    {
+      "id": "e0af",
+      "username": "awais",
+      "password": "awais321",
+      "address": "mughalpura lahore",
+      "email": "awais@gmail.com",
+      "cell": "03327775452"
+    },
+    {
+      "id": "7b19",
+      "username": "ahmad",
+      "password": "ahmad123",
+      "address": "shalimar",
+      "email": "ahmad@gmail.com",
+      "cell": "03094163362"
+    },
+    {
+      "id": "b554",
+      "username": "muneeb",
+      "password": "muneeb123",
+      "address": "muree road",
+      "email": "muneeb@gmail.com",
+      "cell": "03094163362"
+    },
+    {
+      "id": "1c44",
+      "username": "waleed",
+      "password": "waleed",
+      "address": "link road mughal pura lahore",
+      "email": "waleed@gmail.com",
+      "cell": "0302300302303"
+    },
+    {
+      "id": "dbcb",
+      "username": "awais ahmad",
+      "password": "awais786",
+      "address": "shalimar",
+      "email": "mawaisahmad68@gmail.com",
+      "cell": "03094163362"
+    },
+    {
+      "id": "b48c",
+      "username": "waleed",
+      "password": "waleed321",
+      "address": "shalimar",
+      "email": "ali@gmail.com",
+      "cell": "03094163362"
+    },
+    {
+      "id": "d738",
+      "username": "waleed ahmad",
+      "password": "waleed456",
+      "address": "link road mughal pura lahore",
+      "email": "arslan@gmail.com",
+      "cell": "03094163362"
+    },
+    {
+      "id": "deae",
+      "username": "waleed ahmad",
+      "password": "waleed456567",
+      "address": "link road mughal pura lahore",
+      "email": "ali@gmail.com",
+      "cell": "03094163362"
+    },
+    {
+      "id": "9b1f",
+      "username": "muneeb farhan",
+      "password": "farhan123",
+      "address": "shalimar",
+      "email": "arslan@gmail.com",
+      "cell": "03094163362"
+    }
+  ],
+  "product": [
+    {
+      "id": "1c44",
+      "username": "waleed",
+      "password": "waleed",
+      "address": "link road mughal pura lahore",
+      "email": "waleed@gmail.com",
+      "cell": "0302300302303"
+    }
+  ]
+}
